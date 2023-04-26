@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <g id="Group" transform="translate(0.75 0.75)">
+    <g id="Regular">
+      <path d="M15.75 7.875C15.75 12.2242 12.2242 15.75 7.875 15.75C3.52576 15.75 0 12.2242 0 7.875L0 0L15.75 0L15.75 7.875Z" transform="translate(9.1235 0.125)" id="Shape" fill="none" stroke="#459DE9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 14.625C-1.9984e-15 6.54784 6.54784 0 14.625 0C22.7022 0 29.25 6.54784 29.25 14.625" transform="translate(2.3735 19.25)" id="Shape" fill="none" stroke="#459DE9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 0L33.75 0" transform="translate(0.1235 0.125)" id="Shape" fill="none" stroke="#459DE9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 0L15.75 0" transform="translate(9.1235 6.875)" id="Shape" fill="none" stroke="#459DE9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 0L0 11.25" transform="translate(2.3735 0.125)" id="Shape" fill="none" stroke="#459DE9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 0L7.4805 5.8185L14.961 0" transform="translate(9.518 21.3065)" id="Shape" fill="none" stroke="#459DE9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+  </g>
+</svg>
